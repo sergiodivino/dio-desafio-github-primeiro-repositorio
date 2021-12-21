@@ -1,0 +1,27 @@
+    Comentário em JavaScript
+Utilizando // para comentar uma linha
+/* inicio  fim*/ comentar mais de uma linha (atalho - ctrl + /) 
+
+
+Declarando variável: var a = 0;
+var utiliza para declarar variável que muda de valor
+
+
+Declarando constante: CONST PRECO = 2;
+CONST utilizado para declarar constante, declara com letras maiúscula (valor é constante)
+
+Declarando função: function soma (passa parametro ou não, a,b ) {
+ return a+b; // retorna a soma
+} 
+
+soma (3, 5); invoca a função
+
+------------------------------------------------------
+Algumas paginas web tem como teste alguns comando em javascript
+botão direito do mouse e inspecionar e opção console
+--------------------------------------------------------
+no vscode o comando para exibir mensagem no console é (console.log("ola mundo");
+em seguida no terminal, navegue até a pasta onde ta o arquivo a ser executado e 
+digite node nome do arquivo.js 
+obs: execute o nodejs      
+

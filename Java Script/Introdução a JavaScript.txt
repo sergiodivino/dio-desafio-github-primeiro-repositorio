@@ -1,0 +1,11 @@
+                JavaScript 
+*Linguagem interpretada - executada em tempo real 
+*Baseada em protótipos - conjuntos de funções e possibilidades
+*Multiparadigma - Orientação a Objetos, Programação Funcional ou Estruturada
+*Comum utilizada em aplicação web client-side, pode ser usada em: Mobile, 
+Smartwatches, Games, Internet das Coisas e APIs
+*Segue padrão ECMAScript - padronização, normas
+
+
+
+
