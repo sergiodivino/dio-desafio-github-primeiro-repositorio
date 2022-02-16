@@ -1,6 +1,33 @@
 Link para Download do GIT https://git-scm.com/downloads
-
-
-             Clonnar reposiório no git 
+-------------------------------------------------------------
+Clonnar reposiório no git 
 
 git clone + url do repositório do GitHub.
+-------------------------------------------------------------
+git init- incia versonamento 
+-------------------------------------------
+git add . - adiciona aquivo para ser comitado
+-------------------------------------------------------
+git commit -m "mensagem do commit"- comita o arqivo e deixa pronto 
+para enviar o arquivo ao repositório remoto
+-------------------------------------------------------------------------
+configurar autor= git config --global user.email "emial aqui"
+                  git config --global user.name (nome)
+---------------------------------------------------------------------------
+git config --list (mostra toda configuração do git)
+---------------------------------------------------------------------------
+git config --global --unset user.email
+git config --global --unset user.name
+(reseta a configuração de autor)
+----------------------------------------------------------------------------
+git remote add origin (link do repositorio)
+gt remote -v (lista os links de repositorio cadastrado)
+----------------------------------------------------------------------------
+git push origin master (comando para enviar os arquivos para github)
+
+link do youtube q explica melhor (https://www.youtube.com/watch?v=_mB-TShMDvY)
+
+git log --oneline mostra  
+git branch
+git checkout e codigo sha1 cm 4 a 6 digito
+gt checkout master
